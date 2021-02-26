@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-    💻 Linguagens: <strong>Java, Javascript, SQL, HTML, CSS3</strong>
+    💻 Linguagens: <strong>Java, Javascript, SQL, TSQL, HTML, CSS3</strong>
 </p>
 
 
