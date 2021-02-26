@@ -29,9 +29,8 @@
 
   </p>
   <p align ="left">
-  
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willbigas&show_icons=true&theme=vision-friendly-dark)](https://github.com/willbigas/github-readme-stats)
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbigas&hide=html&layout=compact&theme=vision-friendly-dark" />
   </p>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbigas&hide=html&layout=compact&theme=vision-friendly-dark" />
 
