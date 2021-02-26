@@ -3,16 +3,16 @@
 <h1 align="center">Oi 👋, Meu nome é William!</h1>
 
 <p align="left"> 
-  Trabalho com desenvolvimento java a +/- 1 ano, Sempre procuro entender como as coisas funcionam antes de codar alguma coisa, estudo constantemente frameworks e bibliotecas javascript por pura curiosidade, no momento estou desenvolvendo meus próprios projetos, caso tenha interesse em saber mais, converse comigo.
+  Trabalho e estudo Java a + de 2 anos, Estudo constantemente frameworks e bibliotecas javascript por pura curiosidade, no momento estou desenvolvendo meus próprios projetos, caso tenha interesse em saber mais, converse comigo.
 </p>
 
 <p align="left">
-    💻 Linguagens: <strong>Java, Javascript, HTML, CSS3</strong>
+    💻 Linguagens: <strong>Java, Javascript, SQL, HTML, CSS3</strong>
 </p>
 
 
 <p align="left">
-  💼 Ferramentas: <strong>Intelij, Visual Studio Code, GIT e GitHub</strong>
+  💼 Ferramentas: <strong>Intelij, VS Code, DBeaver, GIT e GitHub</strong>
 </p>
 
 <p align="left">
