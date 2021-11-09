@@ -7,12 +7,7 @@
 </p>
 
 <p align="left">
-    💻 Linguagens: <strong>Java, Javascript, SQL, TSQL, HTML, CSS3</strong>
-</p>
-
-
-<p align="left">
-  💼 Ferramentas: <strong>Intelij, VS Code, DBeaver, GIT e GitHub</strong>
+  💼 Ferramentas: <strong>IntelijIDEA, VSCode, DBeaver, GIT e GitHub , Imsomnia, Postman</strong>
 </p>
   
  <p align="left">
