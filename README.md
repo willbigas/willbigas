@@ -3,7 +3,7 @@
 <h1 align="center">Oi 👋, Meu nome é William!</h1>
 
 <p align="left"> 
-  Trabalho e estudo Java a + de 2 anos, Estudo constantemente frameworks e bibliotecas javascript por pura curiosidade, no momento estou desenvolvendo meus próprios projetos, caso tenha interesse em saber mais, converse comigo.
+  Trabalho e estudo Java a + de 3 anos, Estudo constantemente frameworks e bibliotecas javascript por pura curiosidade, no momento trabalho para uma gerenciadora de imóveis, caso tenha interesse em saber mais, converse comigo.
 </p>
 
 <p align="left">
