@@ -1,16 +1,16 @@
 <h1 align="center">Oi 👋, Meu nome é William!</h1>
 
-<p align="left"> 
+<p align="center"> 
 Trabalho com desenvolvimento de software a + de 4 anos com Java e Javascript.
 </p>
-<p align="left"> 
+<p align="center"> 
  Atualmente trabalhando em projeto para a área administrativa, financeira e de gestão imobiliária.
 </p>
 
- <p align="left">
+ <p align="center">
   💌 Entre em contato comigo através das redes abaixo: ⤵️
 </p>
- <p align="left">
+ <p align="center">
 
  <a href="https://www.linkedin.com/in/willbigas/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/willbigas/" /></a>
