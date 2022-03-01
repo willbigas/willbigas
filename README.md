@@ -7,10 +7,6 @@ Trabalho com desenvolvimento de software a + de 4 anos com Java e Javascript.
  Atualmente trabalhando em projeto para a área administrativa, financeira e de gestão imobiliária.
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>IntelijIDEA, VSCode, DBeaver, GIT e GitHub , Imsomnia, Postman</strong>
-</p>
-  
  <p align="left">
   💌 Entre em contato comigo através das redes abaixo: ⤵️
 </p>
