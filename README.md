@@ -4,7 +4,7 @@
 Trabalho com desenvolvimento de software a + de 4 anos com Java e Javascript.
 </p>
 <p align="left"> 
- No atual momento trabalho em um projeto de gestão de venda de imóveis e locação, caso tenha interesse em saber mais, converse comigo.
+ Atualmente trabalhando em projeto para a área administrativa, financeira e de gestão imobiliária.
 </p>
 
 <p align="left">
