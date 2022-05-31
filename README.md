@@ -8,7 +8,7 @@ Trabalho com desenvolvimento de software a + de 4 anos com Java e Javascript.
 </p>
 
  <p align="center">
-  💌 Entre em contato comigo através das redes abaixo: ⤵️
+  Entre em contato comigo através das redes abaixo: ⤵️
 </p>
  <p align="center">
 
