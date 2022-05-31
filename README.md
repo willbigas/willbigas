@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Meu nome é William!</h1>
+<h1 align="center">Hi 👋, I'm William!</h1>
 
 <p align="center"> 
 I work with software development for over 4 years with Java and Javascript.
