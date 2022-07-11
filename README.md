@@ -4,7 +4,7 @@
 I work with software development for over 4 years with Java and Javascript.
 </p>
 <p align="center"> 
-Currently working on a project for the administrative, financial and real estate management areas.
+Currently working on a project focused on the financial area
 </p>
 
  <p align="center">
