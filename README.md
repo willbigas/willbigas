@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William!</h1>
 
 <p align="center"> 
-I work with software development for over 4 years with Java and Javascript.
+I work with software development for over 5 years with Java and Javascript.
 </p>
 <p align="center"> 
 Currently working on a project focused on the financial area
